@@ -515,8 +515,6 @@ Example GitHub evidence format:
 ---
 
 # References
-
-1. UniKL MIIT — **IKB42603 Cloud Computing Security Essentials, Lab 2: Secure Isolation & Multi-Tenancy**, Prof. Dr. Shahrulniza Musa.
-2. Kubernetes Documentation — Network Policies.
-3. Calico Documentation — Network Policy Enforcement.
-4. Kubernetes Documentation — RBAC and Resource Management.
+1. Kubernetes Documentation — Network Policies.
+2. Calico Documentation — Network Policy Enforcement.
+3. Kubernetes Documentation — RBAC and Resource Management.
